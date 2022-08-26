@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ejemplo
-=======
-ss
->>>>>>> c189522b76ca3b91fc085bb59b61a0b55e67a851
-=======
-Labo 1
->>>>>>> 9c23a6f0d5391835c00a903d69aad1ecaee300aa
